@@ -1,0 +1,58 @@
+.wall {
+    position: relative;
+    color: white;
+    margin: 20px;
+}
+
+.up {
+    position: absolute;
+    left: 120px;
+    top: 15%;
+}
+
+h1 {
+    font-size: 80px;
+    color: white;
+}
+
+.beauty {
+    position: relative;
+    margin: 20px;
+}
+
+.down {
+    position: absolute;
+    left: 25%;
+    bottom:25%;   
+}
+
+h2 {
+    font-size: 80px;
+    color: white;
+}
+
+.text {
+    Position: relative;
+    margin: 20px;
+    width: 100%;
+    height: 500px;
+    background-color: pink;
+}
+
+.text img {
+    position: absolute;
+    left: 200px;
+    bottom: 20%;
+}
+
+.description {
+    position: absolute;
+    text-align: center;
+    right: 200px;
+    bottom: 20%;
+}
+
+h3 {
+    font-size: 40px;
+    color: black;
+}
